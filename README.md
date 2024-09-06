@@ -39,5 +39,5 @@ This project is deployed using GitHub Pages. To view it, navigate to [here](http
 
 ## Contact
 
-Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/kevin-thurman-a687085b/) or [Twitter](https://twitter.com/kevinsthurman).
+Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/kevinsthurman) or [Twitter](https://twitter.com/kevinsthurman).
 
